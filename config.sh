@@ -6,11 +6,11 @@ export MANIFEST="https://github.com/minimal-manifest-twrp/platform_manifest_twrp
 export BRANCH="twrp-9.0" # the branch of manifest
 
 # about your device
-export DEVICE="m10lte" # codename used in device tree
-export DT_LINK="https://github.com/youssefnone/android_recovery_samsung_m10lte" # device tree link
+export DEVICE="x689f" # codename used in device tree
+export DT_LINK="https://github.com/twrpdtgen/android_device_infinix_Infinix-X689F" # device tree link
 export DT_BRANCH="twrp" # device tree branch
-export VENDOR="samsung" # device manufacturer or vendor
-export TARGET="recoveryimage" # build method: recoveryimage, bootimage, vendorboot
+export VENDOR="infinix" # device manufacturer or vendor
+export TARGET="bootimage" # build method: recoveryimage, bootimage, vendorboot
 export TYPE="omni" # recovery type: omni, twrp, something else
 
 # you dont need to edit these
