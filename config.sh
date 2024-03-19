@@ -7,7 +7,7 @@ export BRANCH="twrp-11.0" # the branch of manifest
 
 # about your device
 export DEVICE="X689F" # codename used in device tree
-export DT_LINK="https://github.com/twrpdtgen/android_device_infinix_Infinix-X689F" # device tree link
+export DT_LINK="https://github.com/1209user/android_device_infinix_Infinix-X689F" # device tree link
 export DT_BRANCH="twrp" # device tree branch
 export VENDOR="infinix" # device manufacturer or vendor
 export TARGET="bootimage" # build method: recoveryimage, bootimage, vendorboot
